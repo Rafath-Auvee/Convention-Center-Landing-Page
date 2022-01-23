@@ -8,6 +8,9 @@
 font-family: 'Manrope', sans-serif;
 font-family: 'Poppins', sans-serif; */
 
+
+/* menu start  */
+
 h1 {
     font-family: 'Poppins', sans-serif;
 }
@@ -32,4 +35,34 @@ h1 {
     /* identical to box height */
     font-feature-settings: 'liga' off;
     color: #3E3E3E;
+}
+
+
+/* menu end  */
+
+.darker-image {
+    filter: brightness(50%);
+    /* height: 694px;  */
+    height: 43.5rem;
+    width: auto;
+}
+
+.image-title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.image-description {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
 }
