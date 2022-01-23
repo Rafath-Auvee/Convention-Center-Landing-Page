@@ -11,3 +11,25 @@ font-family: 'Poppins', sans-serif; */
 h1 {
     font-family: 'Poppins', sans-serif;
 }
+
+.convention-center-name {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    font-feature-settings: 'liga' off;
+    color: #3E3E3E;
+}
+
+.menu-items-name {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    font-feature-settings: 'liga' off;
+    color: #3E3E3E;
+}
