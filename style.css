@@ -11,7 +11,7 @@ font-family: 'Poppins', sans-serif; */
 
 /* menu start  */
 
-h1 {
+body {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -40,6 +40,9 @@ h1 {
 
 /* menu end  */
 
+
+/* slider start   */
+
 .darker-image {
     filter: brightness(50%);
     /* height: 694px;  */
@@ -66,3 +69,97 @@ h1 {
     text-align: center;
     color: #FFFFFF;
 }
+
+.first_section {
+    margin-bottom: 120px;
+}
+
+
+/* slider end   */
+
+
+/* Our package start  */
+
+.section_heading {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 57px;
+    /* identical to box height */
+    text-transform: capitalize;
+    color: #0A0826;
+}
+
+.choose-plan {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #3F87F5;
+    background-color: rgba(255, 255, 255, 0.212);
+}
+
+.choose-plan2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    text-align: center;
+    color: #3F87F5;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+}
+
+.focus-card {
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #FFFFFF;
+    scale: (1.1);
+}
+
+.dark_blue {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #231D4F;
+}
+
+ul>li {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #848199;
+}
+
+.card-list {
+    color: #FFFFFF;
+}
+
+.focus_text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height, or 128% */
+    color: #FFFFFF;
+}
+
+
+/* Our package end */
