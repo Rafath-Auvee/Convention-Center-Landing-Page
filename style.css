@@ -92,7 +92,6 @@ body {
 }
 
 .choose-plan {
-    font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
@@ -103,7 +102,6 @@ body {
 }
 
 .choose-plan2 {
-    font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
@@ -123,10 +121,10 @@ body {
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
-    line-height: 22px;
     /* identical to box height */
     color: #FFFFFF;
-    scale: (1.1);
+    transform: scale(1.2);
+    transform: scaleY(1.15);
 }
 
 .dark_blue {
@@ -146,6 +144,7 @@ ul>li {
     line-height: 22px;
     /* identical to box height */
     color: #848199;
+    margin-bottom: 4px;
 }
 
 .card-list {
@@ -156,9 +155,12 @@ ul>li {
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
-    line-height: 46px;
     /* identical to box height, or 128% */
     color: #FFFFFF;
+}
+
+.far {
+    margin-right: 7px;
 }
 
 
