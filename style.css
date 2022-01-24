@@ -131,9 +131,9 @@ body {
     font-size: 15px;
     /* identical to box height */
     color: #FFFFFF;
-    /* transform: scale(1.2); */
-    transform: scaleY(1.15);
-    transform: translateY(-15px);
+    transform: scale(1);
+    /* transform: scaleY(1.05);
+    transform: translateY(-15px); */
 }
 
 .dark_blue {
@@ -207,4 +207,8 @@ footer {
 .blue-border {
     font-size: 1.2rem;
     border-right: 8px solid darkblue;
+}
+
+.pill {
+    margin-left: -3rem;
 }
