@@ -123,8 +123,9 @@ body {
     font-size: 15px;
     /* identical to box height */
     color: #FFFFFF;
-    transform: scale(1.2);
+    /* transform: scale(1.2); */
     transform: scaleY(1.15);
+    transform: translateY(-15px);
 }
 
 .dark_blue {
@@ -165,3 +166,28 @@ ul>li {
 
 
 /* Our package end */
+
+
+/* footer  */
+
+footer {
+    /* height: 150px;
+    width: auto; */
+    margin-top: 200px;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+}
+
+.appstore {
+    width: 30%;
+    margin-top: 2%;
+}
+
+.last_section {
+    background: #0B0D17;
+}
+
+.footer-content {
+    padding-top: 4rem;
+    align-items: center;
+}
